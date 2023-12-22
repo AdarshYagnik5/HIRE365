@@ -19,6 +19,7 @@ const Login = () => {
 
       {/* Right Section */}
       <div className="md:w-1/2 md:ml-auto bg-gray-200 p-4">
+        {/* Add content for the right section */}
         
         <h1 className="text-8xl font-bold pt-20"><i>HIRE 365</i></h1>
       </div>
